@@ -1,0 +1,34 @@
+body{
+    background: aqua;
+    display: block;
+    /* height: 500em;
+    width: 100em; */
+    border: 2px solid black;
+
+
+}
+#butn{
+    /* height: 30px;
+    width: 100px;  */
+    text-align: center;
+    margin-bottom: 10 0px;
+
+}
+#countlabel{
+    font-size: 10em;
+    display: block;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button{
+    padding: 10px 20px;
+    /* width: 150px;
+    height: 40px; */
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    
+}
+.button:hover{
+    background: rgb(161, 161, 161);
+}
